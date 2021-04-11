@@ -1,0 +1,162 @@
+https://lh3.googleusercontent.com/QJiOFEZ3ufYUj328yeqmon_d2zBoscA20WcCQUBA0nFOvzp8DcwrhVLHXfozXFCopxnSjjhMyXyUPlkA1hGtaCeKbYwMZgnqgwLvFdvikniRFYNWAgBUXnQ109LmJLyJ7g=w1280
+
+
+<img id="a" src="https://lh3.googleusercontent.com/QJiOFEZ3ufYUj328yeqmon_d2zBoscA20WcCQUBA0nFOvzp8DcwrhVLHXfozXFCopxnSjjhMyXyUPlkA1hGtaCeKbYwMZgnqgwLvFdvikniRFYNWAgBUXnQ109LmJLyJ7g=w1280">
+
+<style>
+  background-color: #22313F;
+  overflow:hidden;
+  display:block;
+  width:300px;
+  margin:auto;
+</style>
+
+<style type="text/css">
+img {
+  background-color: #22313F;
+  overflow:hidden;
+  display:block;
+  width:300px;
+  margin:auto;
+}
+img{
+	transition:0,5s;
+img{
+transform : scale(2);
+}
+</style>
+
+<img id="a" src="https://lh4.googleusercontent.com/vzQxHF_DdkpuOiSXUQd9Ok5sCWgjQ5EKR6iHJqeqRsejdAsUEnt2hL-r9AxEaU4vAlgQKDihSMby5fCZRKFAtdk">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style type="text/css">
+img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+	display:block;
+	width:1200px;
+  margin:auto;
+}
+img:hover{
+	-webkit-transform: scale(2);
+	transform: scale(2);
+}
+</style>
+<div style="width:500px;height:500px;overflow:hidden;">
+  <img id="a" src="https://db3pap003files.storage.live.com/y4mwZ3uVLIWTlwQhlSgeCmCp83x2TsgN-OsgMAb9L_p8eZG5Rjq8t8A4nnW8xzJ_dIJ6s4a-0de3ba8Kr_UTLesNkE2WWoJKJErUQRyKqhCzy--unNwMLZsBl8j2n1jfdqMbVkhrFxI0Kfehl2_oWt4XetaQY-hTY4Ur4eqS9QOfh4HQoif4bo8BSLUkBQM2tFN?width=2400&height=1380&cropmode=none">
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.zoom {
+  padding: 50px;
+  transition: transform .2s;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  -ms-transform: scale(1.5);
+  -webkit-transform: scale(1.5);
+  transform: scale(1.5);
+}
+</style>
+</head>
+<body>
+
+<div class="zoom" style="width:400px;height:400px;overflow:hidden;">
+  <img id="a" src="https://db3pap003files.storage.live.com/y4mwZ3uVLIWTlwQhlSgeCmCp83x2TsgN-OsgMAb9L_p8eZG5Rjq8t8A4nnW8xzJ_dIJ6s4a-0de3ba8Kr_UTLesNkE2WWoJKJErUQRyKqhCzy--unNwMLZsBl8j2n1jfdqMbVkhrFxI0Kfehl2_oWt4XetaQY-hTY4Ur4eqS9QOfh4HQoif4bo8BSLUkBQM2tFN?width=2400&height=1380&cropmode=none">
+</div>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html>
+  <head>
+    <script src="https://unpkg.com/js-image-zoom@0.4.1/js-image-zoom.js" type="application/javascript"></script>
+  </head>
+  <body>
+    <div id="phareaway" style="width: 400px">
+    <img src="https://db3pap003files.storage.live.com/y4mwZ3uVLIWTlwQhlSgeCmCp83x2TsgN-OsgMAb9L_p8eZG5Rjq8t8A4nnW8xzJ_dIJ6s4a-0de3ba8Kr_UTLesNkE2WWoJKJErUQRyKqhCzy--unNwMLZsBl8j2n1jfdqMbVkhrFxI0Kfehl2_oWt4XetaQY-hTY4Ur4eqS9QOfh4HQoif4bo8BSLUkBQM2tFN?width=2400&height=1380&cropmode=none" height="352" width="470" />
+    <div>
+    <script>
+      var options = {
+          width: 400,
+          zoomWidth: 500,
+          offset: {vertical: 0, horizontal: 10}
+      };
+      new ImageZoom(document.getElementById("phareaway"), options);
+
+    </script>
+  </body>
+</html>
